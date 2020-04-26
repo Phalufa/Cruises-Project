@@ -32,7 +32,6 @@ public class CruiseShip {
         this.numOfDecks = numOfDecks;
         this.numOfPools = numOfPools;
         this.numOfRooms = numOfRooms;
-//        this.passengers = new HashSet<>();
     }
 
     public long getId() {
